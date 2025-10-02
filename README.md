@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![Java CI with Maven](https://github.com/Gabesz05/se-lab/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Gabesz05/se-lab/actions/workflows/maven.yml)
 
 # SE Spaceship
